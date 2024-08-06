@@ -17,3 +17,11 @@ footer {
     margin-top: 10vh;
     margin-bottom: 10vh;
 }
+.card {
+    opacity: 90%;
+}
+.card:hover {
+opacity: 100%;
+    transform:translateY(-10px);
+}
+
