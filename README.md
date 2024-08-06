@@ -10,3 +10,8 @@ Issues Faced
 
 
 3-- Had issues while making the project page with a lot of forms with the help of youtube tutorial I was able to make it happen.
+
+Images 
+1-- images used in banner are exported from figma
+
+2-- All the svg images are exported from [svgrepo](https://www.svgrepo.com/)
